@@ -83,10 +83,10 @@ After that do this to install DistillBERT:
 
 ```
 ## License
-This code is available for all researchers to use.
+This code is available for all researchers to use and has no license requirement. 
 
 ## References
-Many parts of this code were based on the official implementation of [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut).
+References soon to come
 
 ## Contact
 
