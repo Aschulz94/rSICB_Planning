@@ -49,7 +49,7 @@ Registration: This folder includes a PDF template for a questionnaire for the ho
 Schedule Documents: This folder includes the past rSICB scheduling templates for both in-person and virtual options for the regional SICB meetings. It also includes templates for scheduling at a glance for the final day of the conference for organizers to remain on schedule.  
 
 
-<h2 align="center">3D Scanning and 3D Print files</h2>
+<h2 align="center">Planning Documents and Templates</h2>
 
 <details>
   <summary>Details</summary>
@@ -62,106 +62,15 @@ git clone https://github.com/Aschulz94/ScalySquirrel
 
 After that do this to install DistillBERT:
 
-```shell
-cd deps/
-git lfs install
-git clone https://huggingface.co/distilbert-base-uncased
-cd ..
-```
-
-Install the requirements using `virtualenv` :
-```bash
-# pip
-source scripts/install.sh
-```
-You can do something equivalent with `conda` as well.
 </details>
 
 
-
-[comment]: <> (## Running the Demo)
-
-[comment]: <> (We have prepared a nice demo code to run SINC on arbitrary videos. )
-
-
-
-<h2 align="center">DLC Training, Labeling, and Raw Videos</h2>
+<h2 align="center">Creating a Conference Website</h2>
 
  <details>
   <summary>Details</summary>
 
 <div align="center"><em>There is no need to do this step if you have followed the instructions and have done it for TEACH. Just use the ones from TEACH.</em></div>
-
-<div align="center"><h3>Step 1: Data Setup</h3></center></div>
-
-Download the data from [AMASS website](https://amass.is.tue.mpg.de). Then, run this command to extract the amass sequences that are annotated in babel:
-
-```shell
-python scripts/process_amass.py --input-path /path/to/data --output-path path/of/choice/default_is_/babel/babel-smplh-30fps-male --use-betas --gender male
-```
-
-Download the data from [TEACH website](https://teach.is.tue.mpg.de), after signing in. The data SINC was trained was a processed version of BABEL. Hence, we provide them directly to your via our website, where you will also find more relevant details. 
-Finally, download the male SMPLH male body model from the [SMPLX website](https://smpl-x.is.tue.mpg.de/). Specifically the AMASS version of the SMPLH model. Then, follow the instructions [here](https://github.com/vchoutas/smplx/blob/main/tools/README.md#smpl-h-version-used-in-amass) to extract the smplh model in pickle format.
-
-The run this script and change your paths accordingly inside it extract the different babel splits from amass:
-
-```shell
-python scripts/amass_splits_babel.py
-```
-
-Then create a directory named `data` and put the babel data and the processed amass data in.
-You should end up with a data folder with the structure like this:
-
-```
-data
-|-- amass
-|  `-- your-processed-amass-data 
-|
-|-- babel
-|   `-- babel-teach
-|       `...
-|   `-- babel-smplh-30fps-male 
-|       `...
-|
-|-- smpl_models
-|   `-- smplh
-|       `--SMPLH_MALE.pkl
-```
-
-Be careful not to push any data! 
-Then you should softlink inside this repo. To softlink your data, do:
-
-`ln -s /path/to/data`
-
-You can do the same for your experiments:
-
-`ln -s /path/to/logs experiments`
-
-Then you can use this directory for your experiments.
-
-<div align="center"><h3>Step 2 (a): Training</h3></center></div>
-
-To start training after activating your environment. Do:
-
-```shell
-python train.py experiment=baseline logger=none
-```
-
-Explore `configs/train.yaml` to change some basic things like where you want
-your output stored, which data you want to choose if you want to do a small
-experiment on a subset of the data etc.
-You can disable the text augmentations and using `single_text_desc: false` in the
-model configuration file. You can check the `train.yaml` for the main configuration
-and this file will point you to the rest of the configs (eg. `model` refers to a config found in
-the folder `configs/model` etc.).
-
-<div align="center"><h3>Step 2 (b): Training MLD</h3></center></div>
-
-Prior to running this code for MLD please create and activate an environment according to their [repo](https://github.com/ChenFengYe/motion-latent-diffusion). Please do the `1. Conda Environment` and `2. Dependencies` out of the steps in their repo.
-
-```shell
-python train.py experiment=some_name run_id=mld-synth0.5-4gpu model=mld data.synthetic=true data.proportion_synthetic=0.5 data.dtype=seg+seq+spatial_pairs machine.batch_size=16 model.optim.lr=1e-4 logger=wandb sampler.max_len=150
-```
 
 </details>
  
@@ -184,7 +93,7 @@ Many parts of this code were based on the official implementation of [DeepLabCut
 
 ## Contact
 
-This code repository was implemented by [Andrew Schulz](https://www.schulzscience.com/), [Mrudul Chellapurath](https://www.linkedin.com/in/mrudul-chellapurath-31530292/), and [Pranav Khandelwal](https://prnvkhndlwl.github.io/).
+These documents/surveys/etc. were implemented by [Andrew Schulz](https://www.schulzscience.com/) during the fall 2021 regional Southeastern Society of Integrative & Comparative Biology Conference
 
 Give a ⭐ if you like.
 
