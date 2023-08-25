@@ -31,10 +31,9 @@
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 
-## Features
+## Overview of GitHub
 
-Planning documents and templates for hosting a rSICB confernece. There is a zip folder attached with the following items: 
-Overview of Regional SICB Folders: 
+In this Github, you will find information on several different items for regional conference planning, including: 
 
 Conference Website: Includes links to previous conference websites and information on resources to create a quick and fast conference website on hosting institutions’ webpages 
 
@@ -48,6 +47,7 @@ Registration: This folder includes a PDF template for a questionnaire for the ho
 
 Schedule Documents: This folder includes the past rSICB scheduling templates for both in-person and virtual options for the regional SICB meetings. It also includes templates for scheduling at a glance for the final day of the conference for organizers to remain on schedule.  
 
+Additionally more information can be found on the arXiV document. 
 
 <h2 align="center">Planning Documents and Templates</h2>
 
