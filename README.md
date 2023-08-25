@@ -7,8 +7,8 @@
 
   <h1 align="center">Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference
     <br>
-    <a href='https://arxiv.org/abs/2304.10417'>
-    <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF' 
+    <a href='https://www.schulzscience.com/'>
+    <img src='https://img.shields.io/badge/arxiv-Soon-red' alt='ArXiv PDF' 
   </h1>
   <p align="center">
     <a href="https://www.schulzscience.com/"><strong>Andrew Schulz*</strong></a>
