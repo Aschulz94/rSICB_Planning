@@ -77,10 +77,10 @@ After that do this to install DistillBERT:
 ## Citation
 
 ```bibtex
-@inproceedings{SINC:ICCV:2022,
-  title={{SINC}: Spatial Composition of {3D} Human Motions for Simultaneous Action Generation},
-  author={Athanasiou, Nikos and Petrovich, Mathis and Black, Michael J. and Varol, G\"{u}l },
-  booktitle = {ICCV},
+@inpreprint{rSICB:ISB:2023,
+  title={Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference},
+  author={Schulz, Andrew and Khandelwal, Pranav},
+  booktitle = {bioRXiV},
   year = {2023}
 }
 
