@@ -1,8 +1,5 @@
 # rSICB_Planning
 
-
- 
-
 <p align="center">
 
   <h1 align="center">Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference
