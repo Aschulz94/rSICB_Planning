@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <h1 align="center">Regional Biology Conference Hosting Guide & Documents
+  <h1 align="center">Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference
     <br>
     <a href='https://arxiv.org/abs/2304.10417'>
     <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF' 
