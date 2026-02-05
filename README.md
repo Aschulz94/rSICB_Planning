@@ -4,7 +4,7 @@
 
   <h1 align="center">Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference
     <br>
-    <a href='https://www.schulzscience.com/'>
+    <a href='https://academic.oup.com/icb/article/64/3/769/7679996'>
     <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF' 
   </h1>
   <p align="center">
