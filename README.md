@@ -13,8 +13,6 @@
  <div align="center">
   </div>
 
-# rSICB_Planning
-
 **Planning documents and templates for hosting a Regional SICB conference**
 
 This repository contains organizational materials, templates, schedules, and resources to help plan and host a successful regional meeting for the Society of Integrative and Comparative Biology (rSICB).
