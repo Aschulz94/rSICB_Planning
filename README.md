@@ -99,19 +99,9 @@ These materials are freely available for reuse and adaptation. Please credit the
 
 These materials were originally developed by **Andrew K. Schulz**, **David L. Hu**, and **Joseph R. Mendelson III** for the regional Southeastern Society of Integrative & Comparative Biology Conference.
 
-Questions, suggestions, and improvements are welcome—please open an issue or submit a pull request.
+Questions, suggestions, and improvements are welcome—please open an issue or submit a pull request. These documents/surveys/etc. were implemented by [Andrew Schulz](https://www.schulzscience.com/) during the fall 2021 regional Southeastern Society of Integrative & Comparative Biology Conference. 
 
 ---
-
-⭐ If you find this repository useful, consider giving it a star!
-
-
-## Contact
-
-These documents/surveys/etc. were implemented by [Andrew Schulz](https://www.schulzscience.com/) during the fall 2021 regional Southeastern Society of Integrative & Comparative Biology Conference
-
-Give a ⭐ if you like.
-
 
 
 
