@@ -6,7 +6,7 @@
     <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF' 
   </h1>
   <p align="center">
-    <a href="https://www.schulzscience.com/"><strong>Andrew Schulz*</strong></a>
+    <a href="https://www.schulzscience.com/"><strong>Andrew K. Schulz*</strong></a>
 
   </p>
 
