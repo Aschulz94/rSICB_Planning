@@ -79,9 +79,10 @@ The items in the folder contents include editable templates and real examples us
 
 ### Schedule Documents
 - Daily and multi-day schedules  
-- At-a-glance and detailed program layouts  
+- At-a-glance and detailed program layouts
+- Format for inviting scientists for reimbursement
 
-Files are provided in commonly used formats (e.g., DOCX, PDF, spreadsheets) and are intended to be customized for individual conferences.
+Files are provided in commonly used formats (e.g., .docx, .pdf, .xlsx) and are intended to be customized for individual conferences.
 
 ---
 
