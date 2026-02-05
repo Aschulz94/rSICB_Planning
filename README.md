@@ -12,16 +12,6 @@
 
  <div align="center">
   </div>
-</p>
-<p float="center">
-  <div align="center">
-  <img src="assets/sinc_tsr.gif" />
-  </div>
-</p>
-
-<!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
-|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 
 # rSICB_Planning
 
