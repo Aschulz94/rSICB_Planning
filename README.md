@@ -28,65 +28,121 @@
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 
-## Overview of GitHub
+# rSICB_Planning
 
-In this Github, you will find information on several different items for regional conference planning, including: 
+**Planning documents and templates for hosting a Regional SICB conference**
 
-Conference Website: Includes links to previous conference websites and information on resources to create a quick and fast conference website on hosting institutions’ webpages 
+This repository contains organizational materials, templates, schedules, and resources to help plan and host a successful regional meeting for the Society of Integrative and Comparative Biology (rSICB).
 
-Day of Documents: This includes examples and templates of all documents that are necessary for the day of the conference. This includes organizing lists, templates for creating poster session layouts, Nametag templates, and a parking template to be emailed out to participants.  
+---
 
-Email Templates: This folder includes examples of Day, Week, & Month out reminder emails for all participants as well as an initial email template to the masses as well as examples for how to have presenters upload their documents before the conference.  
+## 📌 Overview
 
-Feedback: This folder contains a detailed report of past rSICB conference feedback given post meeting 
+Regional SICB conferences require coordination across communication, scheduling, logistics, and participant engagement. This repository collects planning resources used in past rSICB meetings, including:
 
-Registration: This folder includes a PDF template for a questionnaire for the hosting institutions and the participants and contact lists for attending members and lab groups in the southeast.  
+- Website and resource suggestions  
+- Day-of-event documents  
+- Email and announcement templates  
+- Registration and feedback forms  
+- Scheduling templates and planning checklists  
 
-Schedule Documents: This folder includes the past rSICB scheduling templates for both in-person and virtual options for the regional SICB meetings. It also includes templates for scheduling at a glance for the final day of the conference for organizers to remain on schedule.  
+These files are intended to support organizers through all phases of planning and running a regional conference.
 
-Additionally more information can be found on the arXiV document. 
+---
 
-<h2 align="center">Planning Documents and Templates</h2>
+## 📁 Repository Structure
 
-<details>
-  <summary>Details</summary>
-In the folder, we have provided both raw 3D scan files as ready-to-print STL files of the Pel's scaly-tailed squirrel.
-
-Access the files here:
-```bash
-git clone https://github.com/Aschulz94/ScalySquirrel
-```
-
-After that do this to install DistillBERT:
-
-</details>
-
-
-<h2 align="center">Creating a Conference Website</h2>
-
- <details>
-  <summary>Details</summary>
-
-<div align="center"><em>There is no need to do this step if you have followed the instructions and have done it for TEACH. Just use the ones from TEACH.</em></div>
-
-</details>
- 
-## Citation
-
-```bibtex
-@inpreprint{rSICB:ISB:2023,
-  title={Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference},
-  author={Schulz, Andrew and Khandelwal, Pranav},
-  booktitle = {bioRXiV},
-  year = {2023}
-}
+Below is a high-level overview of the repository contents:
 
 ```
-## License
-This code is available for all researchers to use and has no license requirement. 
+rSICB_Planning/
+├── Conference Website/        # Links, examples, and starter templates
+├── Day of Documents/          # Checklists, signage layouts, print-ready materials
+├── Email Templates/           # Communication templates (e.g., save-the-date, reminders)
+├── Feedback/                  # Feedback forms and surveys from previous meetings
+├── Registration/              # Registration forms and participant materials
+├── Schedule Documents/        # Sample schedules and program templates
+├── README.md                  # Repository overview
+└── LICENSE                    # Licensing and reuse information
+```
 
-## References
-References soon to come
+> Folder contents include editable templates and real examples used in previous rSICB events.
+
+---
+
+## 🧩 What’s Inside
+
+### 🌐 Conference Website
+- Templates and examples for creating a conference website  
+- Suggested structure and content organization  
+
+### 📄 Day-of-Event Documents
+- Signage and poster layouts  
+- Event logistics checklists  
+
+### ✉️ Email Templates
+- Save-the-date announcements  
+- Reminder emails  
+- Abstract submission and upload instructions  
+
+### 📝 Feedback Forms
+- Post-conference survey templates  
+- Structured feedback for improving future meetings  
+
+### 🧾 Registration Materials
+- Sample registration questionnaires  
+- Participant and institutional information templates  
+
+### 🗓 Schedule Documents
+- Daily and multi-day schedules  
+- At-a-glance and detailed program layouts  
+
+Files are provided in commonly used formats (e.g., DOCX, PDF, spreadsheets) and are intended to be customized for individual conferences.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Aschulz94/rSICB_Planning.git
+   ```
+
+2. **Browse the folders**  
+   Identify templates relevant to your planning stage.
+
+3. **Customize documents**  
+   Update dates, locations, contacts, and branding to fit your event.
+
+4. **Collaborate with your team**  
+   Use GitHub features such as branches, issues, and pull requests to manage planning collaboratively.
+
+---
+
+## 🧠 Best Practices
+
+- Use version control to track changes across planning phases  
+- Keep backups of finalized documents  
+- Centralize communication using consistent email templates  
+
+---
+
+## 📄 License
+
+These materials are freely available for reuse and adaptation. Please credit the original creators when sharing or modifying the content.
+
+---
+
+## 📬 Questions & Contributions
+
+These materials were originally developed by **Andrew Schulz** and **Pranav Khandelwal** for the regional Southeastern Society of Integrative & Comparative Biology Conference.
+
+Questions, suggestions, and improvements are welcome—please open an issue or submit a pull request.
+
+---
+
+⭐ If you find this repository useful, consider giving it a star!
+
 
 ## Contact
 
