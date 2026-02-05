@@ -12,6 +12,8 @@
 
  <div align="center">
   </div>
+  
+# rSICB repository items 
 
 **Planning documents and templates for hosting a Regional SICB conference**
 
