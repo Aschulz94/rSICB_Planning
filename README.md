@@ -9,8 +9,6 @@
   </h1>
   <p align="center">
     <a href="https://www.schulzscience.com/"><strong>Andrew Schulz*</strong></a>
-    ·
-    <a href="https://prnvkhndlwl.github.io/"><strong>Pranav Khandelwal</strong></a>
 
   </p>
   <h2 align="center">Society of Integrative and Comparative Biology </h2>
