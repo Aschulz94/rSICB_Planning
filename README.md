@@ -21,7 +21,7 @@ This repository contains organizational materials, templates, schedules, and res
 
 ---
 
-## 📌 Overview
+## Overview
 
 Regional SICB conferences require coordination across communication, scheduling, logistics, and participant engagement. This repository collects planning resources used in past rSICB meetings, including:
 
@@ -54,30 +54,30 @@ The items in the folder contents include editable templates and real examples us
 
 ---
 
-## 🧩 What’s Inside
+## What’s Inside
 
-### 🌐 Conference Website
+### Conference Website
 - Templates and examples for creating a conference website  
 - Suggested structure and content organization  
 
-### 📄 Day-of-Event Documents
+### Day-of-Event Documents
 - Signage and poster layouts  
 - Event logistics checklists  
 
-### ✉️ Email Templates
+### Email Templates
 - Save-the-date announcements  
 - Reminder emails  
 - Abstract submission and upload instructions  
 
-### 📝 Feedback Forms
+### Feedback Forms
 - Post-conference survey templates  
 - Structured feedback for improving future meetings  
 
-### 🧾 Registration Materials
+### Registration Materials
 - Sample registration questionnaires  
 - Participant and institutional information templates  
 
-### 🗓 Schedule Documents
+### Schedule Documents
 - Daily and multi-day schedules  
 - At-a-glance and detailed program layouts  
 
@@ -89,13 +89,13 @@ Files are provided in commonly used formats (e.g., DOCX, PDF, spreadsheets) and 
 
 ---
 
-## 📄 License
+## License
 
 These materials are freely available for reuse and adaptation. Please credit the original creators when sharing or modifying the content. There is a LICENSE file included in the repository. 
 
 ---
 
-## 📬 Questions & Contributions
+## Questions & Contributions
 
 These materials were originally developed by **Andrew K. Schulz**, **David L. Hu**, and **Joseph R. Mendelson III** for the regional Southeastern Society of Integrative & Comparative Biology Conference.
 
