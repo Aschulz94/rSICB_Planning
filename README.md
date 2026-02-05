@@ -86,10 +86,6 @@ Files are provided in commonly used formats (e.g., .docx, .pdf, .xlsx) and are i
 
 ---
 
-
-
----
-
 ## License
 
 These materials are freely available for reuse and adaptation. Please credit the original creators when sharing or modifying the content. There is a LICENSE file included in the repository. 
