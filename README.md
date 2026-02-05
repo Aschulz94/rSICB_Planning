@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">Tips and Tricks to Running a Regional Interdisciplinary  Scientific Conference
+  <h1 align="center">rSICB Hosting Guide: Tips and Tricks to Running a Regional Interdisciplinary Scientific Conference
     <br>
     <a href='https://academic.oup.com/icb/article/64/3/769/7679996'>
     <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF' 
