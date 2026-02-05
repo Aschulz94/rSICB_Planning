@@ -9,8 +9,7 @@
     <a href="https://www.schulzscience.com/"><strong>Andrew Schulz*</strong></a>
 
   </p>
-  <h2 align="center">Society of Integrative and Comparative Biology </h2>
- <div align="center">Division of Comparative Biomechanics and Vertebrate Morphology Hosting Guide" </div>
+
  <div align="center">
   </div>
 </p>
