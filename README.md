@@ -35,7 +35,7 @@ These files are intended to support organizers through all phases of planning an
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Below is a high-level overview of the repository contents:
 
@@ -47,11 +47,10 @@ rSICB_Planning/
 ├── Feedback/                  # Feedback forms and surveys from previous meetings
 ├── Registration/              # Registration forms and participant materials
 ├── Schedule Documents/        # Sample schedules and program templates
-├── README.md                  # Repository overview
 └── LICENSE                    # Licensing and reuse information
 ```
 
-> Folder contents include editable templates and real examples used in previous rSICB events.
+The items in the folder contents include editable templates and real examples used in previous rSICB events. This was created from the 2021 rSICB hosted in Atlanta, Georgia by David Hu, Joseph Mendelson, and Andrew K. Schulz.
 
 ---
 
@@ -86,41 +85,19 @@ Files are provided in commonly used formats (e.g., DOCX, PDF, spreadsheets) and 
 
 ---
 
-## 🚀 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Aschulz94/rSICB_Planning.git
-   ```
-
-2. **Browse the folders**  
-   Identify templates relevant to your planning stage.
-
-3. **Customize documents**  
-   Update dates, locations, contacts, and branding to fit your event.
-
-4. **Collaborate with your team**  
-   Use GitHub features such as branches, issues, and pull requests to manage planning collaboratively.
-
----
-
-## 🧠 Best Practices
-
-- Use version control to track changes across planning phases  
-- Keep backups of finalized documents  
-- Centralize communication using consistent email templates  
 
 ---
 
 ## 📄 License
 
-These materials are freely available for reuse and adaptation. Please credit the original creators when sharing or modifying the content.
+These materials are freely available for reuse and adaptation. Please credit the original creators when sharing or modifying the content. There is a LICENSE file included in the repository. 
 
 ---
 
 ## 📬 Questions & Contributions
 
-These materials were originally developed by **Andrew Schulz** and **Pranav Khandelwal** for the regional Southeastern Society of Integrative & Comparative Biology Conference.
+These materials were originally developed by **Andrew K. Schulz**, **David L. Hu**, and **Joseph R. Mendelson III** for the regional Southeastern Society of Integrative & Comparative Biology Conference.
 
 Questions, suggestions, and improvements are welcome—please open an issue or submit a pull request.
 
